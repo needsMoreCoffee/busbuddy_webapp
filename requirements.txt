@@ -35,7 +35,7 @@ pyasn1==0.1.7
 pycparser==2.10
 pycups==1.9.63
 pycurl==7.19.5
-Pygments==2.0.1
+Pygments==2.7.4
 pygobject==3.14.0
 pyOpenSSL==0.14
 pysmbc==1.0.15.3
