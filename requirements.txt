@@ -27,7 +27,7 @@ MarkupSafe==0.23
 ndg-httpsclient==0.3.2
 numpy==1.8.2
 pexpect==3.2
-Pillow==2.6.1
+Pillow==8.2.0
 ply==3.4
 protobuf==3.1.0.post1
 psycopg2==2.6.2
